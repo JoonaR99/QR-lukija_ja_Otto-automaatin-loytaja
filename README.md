@@ -1,0 +1,1 @@
+# QR-lukija_ja_Otto-automaatin-loytaja
